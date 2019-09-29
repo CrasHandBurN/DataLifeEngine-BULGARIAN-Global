@@ -2,7 +2,7 @@
 
 $lang = array (
 
-'wysiwyg_language'      =>  "bg",
+'wysiwyg_language'      =>  "bg_BG",
 
 // Версия 13.2
 'recaptcha_fail'		=>	"Проверката, че не сте робот, бе неуспешна",
